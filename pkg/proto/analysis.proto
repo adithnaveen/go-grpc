@@ -5,7 +5,7 @@ import "google/api/annotations.proto";
 import "customer.proto";
 import "restaurant.proto";
 import "utils.proto";
-
+ 
 
 // Cuisines per state
 message StateCuisines {

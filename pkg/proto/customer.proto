@@ -10,7 +10,7 @@ message Customer {
   string name = 2;
   string state = 3;
 }
-
+ 
 // List of customers
 message CustomerList {
   repeated Customer customer = 1;

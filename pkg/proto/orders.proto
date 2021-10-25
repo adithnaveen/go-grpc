@@ -14,7 +14,7 @@ message Order {
   int32 duration = 6;
   string cuisine = 7;
   int32 time = 8;
-}
+} 
 
 // Order Request
 message OrderReq {

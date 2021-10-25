@@ -6,7 +6,7 @@ import "google/api/annotations.proto";
 // Login Request
 message LoginReq {
   LoginCred cred = 1;
-}
+} 
 
 // Login Credentials
 message LoginCred {

@@ -12,3 +12,4 @@ run:
 
 process-data:
 	go run cmd/dataprocessing/main.go
+ 
